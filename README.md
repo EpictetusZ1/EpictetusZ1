@@ -53,26 +53,26 @@
 ### Languages and Tools
 
 #### Applications & Data:
-<img src="assets/stackAssets/typeScript.jpeg" alt="TypeScript" height="50">
-<img src="assets/stackAssets/javascript.jpeg" alt="JavaScript" height="50">
-<img src="assets/stackAssets/react.png" alt="React" height="50">
-<img src="assets/stackAssets/html5.png" alt="HTML 5" height="50">
-<img src="assets/stackAssets/css3.png" alt="CSS3" height="50">
-<img src="assets/stackAssets/mongo.png" alt="MongoDB" height="50">
-<img src="assets/stackAssets/firebase.jpeg" alt="firebase" height="50">
-<img src="assets/stackAssets/node.png" alt="Node" height="50">
+<span><img src="assets/stackAssets/typeScript.jpeg" alt="TypeScript" height="50"></span>
+<span><img src="assets/stackAssets/javascript.jpeg" alt="JavaScript" height="50"></span>
+<span><img src="assets/stackAssets/react.png" alt="React" height="50"></span>
+<span><img src="assets/stackAssets/html5.png" alt="HTML 5" height="50"></span>
+<span><img src="assets/stackAssets/css3.png" alt="CSS3" height="50"></span>
+<span><img src="assets/stackAssets/mongo.png" alt="MongoDB" height="50"></span>
+<span><img src="assets/stackAssets/firebase.jpeg" alt="firebase" height="50"></span>
+<span><img src="assets/stackAssets/node.png" alt="Node" height="50"></span>
 
 #### DevOps:
-<img src="assets/stackAssets/webStorm.png" alt="WebStorm" height="50"> 
-<img src="assets/stackAssets/vim.png" alt="Vim" height="50">
-<img src="assets/stackAssets/git.png" alt="Git" height="50">
-<img src="assets/stackAssets/gitHub.jpeg" alt="GitHub" height="50">
-<img src="assets/stackAssets/esLint.jpeg" alt="ESLint" height="50">
-<img src="assets/stackAssets/webpack.png" alt="Webpack" height="50">
+<span><img src="assets/stackAssets/webStorm.png" alt="WebStorm" height="50"> </span>
+<span><img src="assets/stackAssets/vim.png" alt="Vim" height="50"></span>
+<span><img src="assets/stackAssets/git.png" alt="Git" height="50"></span>
+<span><img src="assets/stackAssets/gitHub.jpeg" alt="GitHub" height="50"></span>
+<span><img src="assets/stackAssets/esLint.jpeg" alt="ESLint" height="50"></span>
+<span><img src="assets/stackAssets/webpack.png" alt="Webpack" height="50"></span>
 
 #### Business Tools:
-<img src="assets/stackAssets/notion.jpeg" alt="Notion" height="50">
-<img src="assets/stackAssets/lucid.png" alt="Lucid Chart" height="50">
+<span><img src="assets/stackAssets/notion.jpeg" alt="Notion" height="50"></span>
+<span><img src="assets/stackAssets/lucid.png" alt="Lucid Chart" height="50"></span>
 
 
 ## GitHub Stats
