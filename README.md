@@ -2,12 +2,11 @@
 
 ---
 
-## 🔭 I'm an Aspiring Front End Developer
+## 🔭 I'm a Front End Developer, who's just trying his best to center all the divs
 
 - 🎓 I'm currently finishing up working through [The Odin Project][Odin] - A open source Full Stack Developer curriculum with over 5,000 contributors
-- 🚀 2022 Goals: Start a new career as a Front End Developer
-- 🌱 I’m currently learning Node, Express, and Web App Security/ Authentication
-- 👀 I'm interested in learning: GraphQL, Redis, and Next.js
+- 🌱 I’m currently learning Next.js and a bit of Php
+- 👀 I'm interested in learning: GraphQL, and Redis
 - 👟 Fun fact: I love running, reading and playing chess!
 
 ### Find me on the world wide web:
