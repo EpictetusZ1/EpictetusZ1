@@ -2,12 +2,13 @@
 
 ---
 
-## 🔭 I'm a Front End Developer, who's just trying his best to center all the divs
+## 🔭 I'm a Full Stack Developer, who's just trying his best to center all the divs
 
-- 🎓 I'm currently finishing up working through [The Odin Project][Odin] - A open source Full Stack Developer curriculum with over 5,000 contributors
-- 🌱 I’m currently learning Next.js and a bit of Php
-- 👀 I'm interested in learning: GraphQL, and Redis
-- 👟 Fun fact: I love running, reading and playing chess!
+- 🏠 I'm currently a Full Stack - React, Laravel (PHP), and MySQL - developer at a property technology startup
+- 🌱 I’m currently learning NextJS, PHP, and Rust (I have a knowledge gap in lower level languages!)
+- 👀 I'm interested in learning: Web Accessibility (a11y), and Redis
+- 👟 Fun fact: I bind books for fun in my free time. I also love running, reading and playing chess!
+- 🇯🇵 Outside of the programming world I am studying Japanese - わくわく !
 
 ### Find me on the world wide web:
 
