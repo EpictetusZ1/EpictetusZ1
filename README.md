@@ -5,9 +5,9 @@
 ## 🔭 I'm a Full Stack Developer, who's just trying his best to center all the divs
 
 - 🏠 I'm currently a Full Stack - React, Laravel (PHP), and MySQL - developer at a property technology startup
-- 🌱 I’m currently learning NextJS, PHP, and Rust (I have a knowledge gap in lower level languages!)
-- 👀 I'm interested in learning: Web Accessibility (a11y), and Redis
-- 👟 Fun fact: I bind books for fun in my free time. I also love running, reading and playing chess!
+- 🌱 I’m currently learning in-depth Canvas & CanvasRenderingContext2D
+- 👀 I'm interested in learning: WebGL, Web Accessibility (a11y), and Redis
+- 👟 Fun fact: I love running, reading and playing chess! I bind books (journals) for friends and family as well!
 - 🇯🇵 Outside of the programming world I am studying Japanese - わくわく !
 
 ### Find me on the world wide web:
