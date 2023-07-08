@@ -45,7 +45,7 @@
 ### Try Hack Me - A cyber security learning platform:
 
 <a href="https://tryhackme.com/p/Epictetus" target="blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Epictetus.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Epictetus.png" alt="TryHackMe">
 </a>
 
 <hr>
