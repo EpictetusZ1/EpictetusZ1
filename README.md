@@ -32,8 +32,9 @@
 </a>
 
 ### Be Sociable:
+
 <a href="https://www.chess.com/member/epictetusz1" target="blank">
-    <img src="assets/pawn2-01.svg" alt="chess.com" height="30">
+    <img src="assets/chesscom.svg" alt="chess.com" height="30">
 </a>
 <a href="https://lichess.org/@/EpictetusZ1" target="blank">
     <img src="assets/lichess.svg" alt="li chess" height="30">
@@ -53,6 +54,7 @@
 ### Languages and Tools
 
 #### Applications & Data:
+
 <span><img src="assets/stackAssets/typeScript.jpeg" alt="TypeScript" height="50"></span>
 <span><img src="assets/stackAssets/javascript.jpeg" alt="JavaScript" height="50"></span>
 <span><img src="assets/stackAssets/react.png" alt="React" height="50"></span>
@@ -63,6 +65,7 @@
 <span><img src="assets/stackAssets/node.png" alt="Node" height="50"></span>
 
 #### DevOps:
+
 <span><img src="assets/stackAssets/webStorm.png" alt="WebStorm" height="50"> </span>
 <span><img src="assets/stackAssets/vim.png" alt="Vim" height="50"></span>
 <span><img src="assets/stackAssets/git.png" alt="Git" height="50"></span>
@@ -71,16 +74,14 @@
 <span><img src="assets/stackAssets/webpack.png" alt="Webpack" height="50"></span>
 
 #### Business Tools:
+
 <span><img src="assets/stackAssets/notion.jpeg" alt="Notion" height="50"></span>
 <span><img src="assets/stackAssets/lucid.png" alt="Lucid Chart" height="50"></span>
-
 
 ## GitHub Stats
 
 ![EpictetusZ1's GitHub stats](https://github-readme-stats.vercel.app/api?username=epictetusZ1&theme=radical)
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=epictetusz1&theme=radical&date_format=j%20M%5B%20Y%5D)
-
 
 [Odin]: https://www.theodinproject.com/
