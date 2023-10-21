@@ -10,6 +10,8 @@
 - 👟 Fun fact: I love running, reading and playing chess! I sometimes bind notebooks for fun too
 - 🇯🇵 Outside of the programming world I am studying Japanese - わくわく !
 
+- A personal project I have been working on: <a href="https://www.lifestorymaps.com" target="blank">Life Story Maps</a>
+
 ### Find me on the world wide web:
 
 <a href="https://exercism.org/profiles/EpictetusZ1" target="blank">
