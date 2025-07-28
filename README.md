@@ -80,10 +80,5 @@
 <span><img src="assets/stackAssets/notion.jpeg" alt="Notion" height="50"></span>
 <span><img src="assets/stackAssets/lucid.png" alt="Lucid Chart" height="50"></span>
 
-## GitHub Stats
-
-![EpictetusZ1's GitHub stats](https://github-readme-stats.vercel.app/api?username=epictetusZ1&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=epictetusz1&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 [Odin]: https://www.theodinproject.com/
